@@ -1,0 +1,6 @@
+Link dos datasets: 
+hh107	-	http://casas.wsu.edu/datasets/hh107.zip
+hh123	-	http://casas.wsu.edu/datasets/hh123.zip
+hh129	-	http://casas.wsu.edu/datasets/hh129.zip
+shib009	-	http://casas.wsu.edu/datasets/shib009.zip
+tokyo	-	http://casas.wsu.edu/datasets/tokyo.zip
